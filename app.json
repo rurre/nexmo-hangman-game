@@ -1,0 +1,5 @@
+{
+  "name": "Hangman Node.js",
+  "description": "A game of Hangman working through Nexmo's SMS API",    
+  "keywords": ["node", "heroku", "nexmo", "hangman"],  
+}
